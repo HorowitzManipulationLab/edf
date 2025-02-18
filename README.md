@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # edf_interface
 EDF interface
 
